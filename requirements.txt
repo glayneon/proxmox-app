@@ -1,0 +1,4 @@
+proxmoxer==2.1.0
+PyYAML==6.0.2
+streamlit==1.38.0
+streamlit_authenticator==0.4.0
